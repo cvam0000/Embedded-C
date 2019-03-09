@@ -27,6 +27,7 @@
 
 ### BINARY , HEXADECIMAL  NO IN C 
 Most of the time we are not interested in the  value of the variable but the state of the register .
+
 `// if we declare a variable to store the state of register eg `
 
 `// int reg = 10101010;`
