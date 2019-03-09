@@ -9,6 +9,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cvam0000/Embedded-C/master/assest/register.png" width="450" title="">
+  <img src="https://raw.githubusercontent.com/cvam0000/Embedded-C/master/assest/register.png" width="550" title="">
   
 </p>
