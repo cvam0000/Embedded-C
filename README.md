@@ -16,3 +16,11 @@
 - configure and command the peripheral 
 
 - transfer the data 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cvam0000/Embedded-C/master/assest/reg.png" width="550" title="">
+  
+</p>
+
+- Get the status and data from peripheral 
