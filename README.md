@@ -27,8 +27,8 @@
 
 ### BINARY , HEXADECIMAL  NO IN C 
 Most of the time we are not interested in the  value of the variable but the state of the register .
-// if we declare a variable to store the state of register eg 
+`// if we declare a variable to store the state of register eg 
 // int reg = 10101010;
 // compiler intruppt 10101010 as decimal no 
 // we have to do this like int reg = 101010101 and reg=0x10101010
-        ###### ob for binary ox for hexadecimal
+         ob for binary ox for hexadecimal`
