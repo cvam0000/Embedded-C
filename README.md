@@ -1,5 +1,5 @@
 # Embedded-C
-###### Register
+### REGISTER
 
 - collection of some bits (8 bits in case of 8bit MCUs).
 - Either each different bit in a register has some purpose or the register as a  holds a value. 
@@ -24,3 +24,5 @@
 </p>
 
 - Get the status and data from peripheral 
+
+### BINARY , HEXADECIMAL , OCTAL NO IN C 
