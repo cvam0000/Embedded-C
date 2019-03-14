@@ -34,6 +34,6 @@ Most of the time we are not interested in the  value of the variable but the sta
 
 `// compiler takes 10101010 as decimal no `
 
-`// we have to do this like int reg = 0b101010101 and reg=0x10101010`
+`// we have to do this like int reg = 0b101010101 and reg= 0x10101010`
 
  `ob for binary ox for hexadecimal`
